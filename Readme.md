@@ -1,11 +1,10 @@
 
 for video demos:
-
-https://github.com/user-attachments/assets/4830b4fe-8a7c-423a-bcd5-a080605ccec5
-https://github.com/user-attachments/assets/aecea355-f792-457e-bc51-0253b654f9d8
+1. https://github.com/user-attachments/assets/4830b4fe-8a7c-423a-bcd5-a080605ccec5
+2. https://github.com/user-attachments/assets/aecea355-f792-457e-bc51-0253b654f9d8
 
 in root:
-(install:pip install flask flask-cors tensorflow numpy pillow)
+(pip install flask flask-cors tensorflow numpy pillow)
 .\.venv\Scripts\Activate.ps1
 python app.py
 
